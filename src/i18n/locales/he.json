@@ -1,0 +1,25 @@
+{
+  "register": {
+    "title": "יצירת חשבון",
+    "username": "שם משתמש",
+    "email": "אימייל",
+    "phone": "טלפון",
+    "password": "סיסמה",
+    "confirmPassword": "אימות סיסמה",
+    "profilePicture": "תמונת פרופיל",
+    "submit": "הרשמה",
+    "errors": {
+      "usernameRequired": "שם משתמש הוא שדה חובה",
+      "usernameMin": "שם משתמש חייב להכיל לפחות 3 תווים",
+      "usernameMax": "שם משתמש יכול להכיל עד 40 תווים",
+      "emailRequired": "אימייל הוא שדה חובה",
+      "emailInvalid": "כתובת אימייל לא תקינה",
+      "phoneMin": "טלפון חייב להכיל לפחות 8 ספרות",
+      "passwordRequired": "סיסמה היא שדה חובה",
+      "passwordMin": "סיסמה חייבת להכיל לפחות 6 תווים",
+      "passwordMax": "סיסמה יכולה להכיל עד 40 תווים",
+      "confirmPasswordRequired": "אימות סיסמה הוא שדה חובה",
+      "passwordsMustMatch": "הסיסמאות אינן תואמות"
+    }
+  }
+}
