@@ -76,9 +76,7 @@ export default function RegisterPage() {
       <div className="w-full max-w-md px-6 pt-16 pb-10">
         {/* Logo */}
         <div className="flex justify-center mb-8">
-          <div className="w-20 h-20 bg-[#00bf63] rounded-full flex items-center justify-center">
-            <span className="text-white text-3xl font-bold">DD</span>
-          </div>
+          <img src="/logo.jpg" alt="Daily Dose" className="w-20 h-20 object-contain" />
         </div>
 
         <h1 className="text-2xl font-bold text-center text-gray-800 mb-8">
